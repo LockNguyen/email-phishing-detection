@@ -213,4 +213,4 @@ python main.py -f newsletter.eml -v
 
 ## Maintainer
 
-Mariam Malik is a Software Engineer and Full-Stack Developer with over one year of professional experience. Her skills include C++, Java (basics), JavaScript, React, Next.js, and Node.js. For project-related inquiries, contact [mariammalik5100@gmail.com](mailto:mariammalik5100@gmail.com).
+Maintained by Loc Nguyen ([@LockNguyen](https://github.com/LockNguyen)).
